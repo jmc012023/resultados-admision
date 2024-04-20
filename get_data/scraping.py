@@ -32,19 +32,19 @@ def scraping(response: Response, id_selector: str, class_selector: str):
         class_=class_selector,
         recursive=False
         )
-    
+    print(len(period_accordions))
+
     isListEmpty(period_accordions)
 
     period_contents: ResultSet[Tag] = map(
         lambda period_accordion: period_accordion.find("div"),
         period_accordions
         )
-    
-    isElementNone(next(period_contents))
 
-    results = []
+    results: list[tuple[str, str, str, str]] = []
 
     for content in period_contents:
+        isElementNone(content)
         tag_period = content.find_previous_sibling("a")
 
         isElementNone(tag_period)
@@ -82,7 +82,7 @@ def scraping(response: Response, id_selector: str, class_selector: str):
                 
                 results.append(information_test)
     
-    pprint(pprint(results))
+    pprint.pprint(results)
 
     return results
 
@@ -102,7 +102,7 @@ def get_urls(url, id_selector, css_selector):
             print(e)
             sys.exit(1)
         else:
-            print("Error ->", e)
+            print("Error ->", e.with_traceback())
             sys.exit(1)
     else:
         return urls
