@@ -1,5 +1,5 @@
 import pandas as pd
-from get_data.scraping_data import get_urls
+from get_data.scraping import get_urls
 import asyncio
 
 def read_urls(url, encoding, name_column, n_df):
