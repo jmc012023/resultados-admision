@@ -7,8 +7,10 @@ class HandleGrades:
         cepunt = 'CEPUNT'
         years = [2019, 2020]
 
-        cepunt_data = results['tipo'] == cepunt
-        year_data = results['periodo'].isin(years)
+        # cepunt_data = results['tipo'] == cepunt
+        cepunt_data = results['tipo_exam'] == cepunt
+        # year_data = results['periodo'].isin(years)
+        year_data = results['fecha_periodo'].isin(years)
 
         filter_fourth_grades = (cepunt_data) & (year_data)
 
@@ -20,9 +22,13 @@ class HandleGrades:
         year = 2024
         period = "II"
 
-        type_data = results['tipo'].isin(types)
-        year_data = results['periodo'] == year
-        period_data = results['number'] == period
+        # type_data = results['tipo'].isin(types)
+        # year_data = results['periodo'] == year
+        # period_data = results['number'] == period
+
+        type_data = results['tipo_exam'].isin(types)
+        year_data = results['fecha_periodo'] == year
+        period_data = results['numero_periodo'] == period
 
         filter_first_grades = (type_data) & (year_data) & (period_data)
 
@@ -108,6 +114,8 @@ class HandleGrades:
         )
 
         results = results.reset_index()
-        results = results.drop(['index', 'n_df', 'year', 'month'], axis=1)
+        # results = results.drop(['index', 'n_df', 'year', 'month'], axis=1)
+        # results = results.drop(['index', 'year', 'month'], axis=1)
+        results = results.drop(['index', 'n_df'], axis=1)
         
         return results

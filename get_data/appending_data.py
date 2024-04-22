@@ -1,40 +1,34 @@
 import pandas as pd
 from pandas import DataFrame
-from scraping import get_urls
+from get_data.cleaning import clean_data
 import asyncio
 
-def clean_scraping():
+def clean_scraping(data_scraping: list[tuple[str, str, str, str]]):
 
-    scraping_data = get_urls(
-        "https://www.admisionunt.info/padron",
-        "container-main",
-        "accordion-container"
-        )
-    
     raw_description: DataFrame = pd.DataFrame(
-        scraping_data,
-        columns=['periodo', 'modalidad', 'descripcion', 'link']
+        data_scraping,
+        columns=['periodo', 'tipo_exam', 'descripcion', 'link']
     )
 
     raw_description.to_csv("./get_data/raw_description.csv", index=False)
+
+    description = clean_data(raw_description)
+
+    return description
 
 def read_urls(url, encoding, name_column, n_df):
     df = pd.read_csv(url, encoding=encoding, names={ name_column:0 })
     df['n_df'] = n_df
     return df
 
-async def join_all_data(url, css_selector, encoding, name_column):
-
-    urls = get_urls(url, css_selector)
+async def join_all_data(description: DataFrame, encoding: str, name_column: str):
 
     df = await asyncio.gather(
-        *[asyncio.to_thread(read_urls, url, encoding, name_column, index) for index, url in enumerate(urls)]
+        *[asyncio.to_thread(read_urls, link, encoding, name_column, index) for index, link in enumerate(description['link'])]
     )
 
     final = pd.concat(df)
 
-    final.to_csv('./get_data/raw_data.csv', index=False)
-    return
+    final = final.reset_index().drop(['index'], axis=1)
 
-
-clean_scraping()
+    return final

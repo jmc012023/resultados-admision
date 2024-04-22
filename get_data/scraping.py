@@ -2,10 +2,8 @@ import requests
 from requests import Response
 from bs4 import BeautifulSoup
 from bs4 import Tag, ResultSet
-from handle_error import isElementNone, isListEmpty, HTMLElementExecption
+from get_data.handle_error import isElementNone, isListEmpty, HTMLElementExecption
 import sys
-import pprint
-
 
 def get_response(url: str) -> Response:
     response = requests.get(url)
@@ -14,7 +12,7 @@ def get_response(url: str) -> Response:
     else:
         raise requests.HTTPError
    
-def scraping(response: Response, id_selector: str, class_selector: str):
+def scraping_web(response: Response, id_selector: str, class_selector: str):
     """
     id_selector: It is the main css selector that contains
     all information about results
@@ -32,7 +30,6 @@ def scraping(response: Response, id_selector: str, class_selector: str):
         class_=class_selector,
         recursive=False
         )
-    print(len(period_accordions))
 
     isListEmpty(period_accordions)
 
@@ -81,8 +78,6 @@ def scraping(response: Response, id_selector: str, class_selector: str):
                     )
                 
                 results.append(information_test)
-    
-    pprint.pprint(results)
 
     return results
 
@@ -90,7 +85,7 @@ def get_urls(url, id_selector, css_selector):
 
     try:
         r = get_response(url)
-        urls = scraping(r, id_selector, css_selector)
+        scraping_data = scraping_web(r, id_selector, css_selector)
     except Exception as e:
         if(isinstance(e, requests.ConnectionError)):
             print(e)
@@ -102,9 +97,7 @@ def get_urls(url, id_selector, css_selector):
             print(e)
             sys.exit(1)
         else:
-            print("Error ->", e.with_traceback())
+            print("Error ->", e)
             sys.exit(1)
     else:
-        return urls
-
-get_urls("https://www.admisionunt.info/padron", "container-main", "accordion-container")
+        return scraping_data

@@ -18,6 +18,12 @@ Tener instalado Python3.10 o versiones superiores y pip, y ejecutar `pip install
 
 # CONSIDERACIONES
 
-- El archivo `/transform_step_by_step.ipynb` sirve de documentacion para mostrar el como los datos se fueron transformando, pero el scrip main.py no utiliza este archivo, ya que todo el codigo se divido en modulos
+- Los archivos `*.ipynb` sirven de documentacion para mostrar el como los datos se fueron transformando, pero el scrip main.py no utiliza estos archivo, ya que todo el codigo se divido en modulos
+
+- El campo area no va ser considerado en esta version ya que a lo largo del tiempo las carreras que pertenecian a determinada area ahora ya no forman parte de esa area y forman parte de otra area
+
+- Los resultados para los examenes extraordinarios 2024 II en la pagina web en algunos resultados solo se indica el lugar, debido a ello se asumio que la modalidad fue excelencia
+
+- Algunos examenes extraordinarios, en la pagina web, no se especificaban el lugar en donde se realizaron. El lugar se indicaban dentro de los enlaces, los cuales para estos casos todos fueron trujillo
 
 - No se utilizan tildes para evitar conflictos entre los sistemas operativos y el sistema de control de versiones (git)

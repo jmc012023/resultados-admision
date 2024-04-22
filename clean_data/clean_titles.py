@@ -1,6 +1,7 @@
 from abc import ABC
 import numpy as np
 import pandas as pd
+from pandas import Series, DataFrame
 import re
 
 class HandleRawTitles:
@@ -137,121 +138,20 @@ class GetDataTitle(ABC):
             .str.extract(valid_date)
             [0]
         )
-
-    @staticmethod
-    def get_place(titles, column_name):
-        valid_places = re.compile(r'(STGO.+DE CHUCO|TRUJILLO|HUAMACHUCO|JEQUETEPEQUE|V A L L E)')
-        valle_with_spaces = 'V A L L E'
-        valle_without_spaces = 'VALLE'
-
-        return (
-            titles
-            [column_name]
-            .str.extract(valid_places)
-            [0]
-            .str.replace(valle_with_spaces, valle_without_spaces, regex=False)
-        )
     
-    @staticmethod
-    def get_test(titles, column_name):
-       valid_tests = re.compile(r'(ORDINARIO|CEPUNT|EXTRAORDINARIO)')
-
-       return (
-           titles
-           [column_name]
-           .str.extract(valid_tests)
-           [0] 
-       )
-    
-    @staticmethod
-    def get_user(titles, column_name):
-        valid_users = re.compile(r'(DISCAPACITADOS|DEPORTISTAS CALIFICADOS|VICT.+DE LA VIOLENCIA|QUINTO GRADO DE EDUCACION SECUNDARIA)')
-
-        return (
-            titles
-            [column_name]
-            .str.extract(valid_users)
-            [0] 
-        )
-    
-    @staticmethod
-    def get_area(titles, column_name):
-        ...
-
 class CleanSecondTitle(GetDataTitle):
-
-    @staticmethod
-    def get_user(titles, column_name):
-        return "I can't perform this method"
+    ...
 
 class CleanThirdTitle(GetDataTitle):
-
-    @staticmethod
-    def get_area(titles, column_name):
-        valid_areas = re.compile(r'(AREAS?|GRUPOS?)(.+)\d\d/\d\d/\d+')
-        repeated_value = 'AREA P.A.D.'
-        not_areas = re.compile(r'[^ABCDy-]')
-        y = 'y'
-        min_sign = '-'
-        start_min = re.compile(r'^-')
-        empty_string = ''
-
-        return (
-            titles
-            [column_name]
-            .str.replace(repeated_value, empty_string, regex=False)
-            .str.extract(valid_areas)
-            [1]
-            .replace(not_areas, empty_string, regex=True)
-            .str.replace(y, min_sign, regex=False)
-            .str.replace(start_min, empty_string, regex=True)
-        )
-
-    @staticmethod
-    def get_test(titles, column_name):
-        return "I can't perform this method"
+    ...
 
 class CleanFourthTitle(GetDataTitle):
-
-    @staticmethod
-    def get_date(titles, column_name):
-        return "I can't perform this method"
-    
-    @staticmethod
-    def get_place(titles, column_name):
-        return "I can't perform this method"
-    
-    @staticmethod
-    def get_test(titles, column_name):
-        return "I can't perform this method"
-    
-    @staticmethod
-    def get_user(titles, column_name):
-        return "I can't perform this method"
-    
-    @staticmethod
-    def get_area(titles, column_name):
-        valid_areas = re.compile(r'(AREAS?|GRUPOS?)(.+)$')
-        not_areas = re.compile(r'[^ABCDy-]')
-        empty_string = ''
-        y = 'y'
-        min_sign = '-'
-        start_min = re.compile(r'^-')
-
-        return (
-            titles
-            [column_name]
-            .str.extract(valid_areas)
-            [1]
-            .replace(not_areas, empty_string, regex=True)
-            .str.replace(y, min_sign, regex=False)
-            .str.replace(start_min, empty_string, regex=True)
-        )
+    ...
 
 class HandleTitles:
 
     @staticmethod
-    def _change_to_date_format(dates):
+    def _change_to_date_format(dates: Series):
 
         return (
             pd.to_datetime(
@@ -265,65 +165,27 @@ class HandleTitles:
 
         first, second, third, fourth = names
 
-        second_test = CleanSecondTitle.get_test(titles, second)
-
         second_date = CleanSecondTitle.get_date(titles, second)
         third_date = CleanThirdTitle.get_date(titles, third)
 
-        second_place = CleanSecondTitle.get_place(titles, second)
-        third_place = CleanThirdTitle.get_place(titles, third)
-
-        third_user = CleanThirdTitle.get_user(titles, third)
-
-        third_area = CleanThirdTitle.get_area(titles, third)
-        fourth_area = CleanFourthTitle.get_area(titles, fourth)
-
         empty_string = ''
 
-        dates = (
+        dates: Series = (
             second_date
             .str.cat(third_date, na_rep=empty_string)
             .replace(empty_string, np.nan, regex=False)
         )
 
         dates = HandleTitles._change_to_date_format(dates)
+        dates.name = "fecha"
 
-        places = (
-            second_place
-            .str.cat(third_place, na_rep=empty_string)
-            .replace(empty_string, np.nan, regex=False)
-        )
-
-        areas = (
-            third_area
-            .str.cat(fourth_area, na_rep=empty_string)
-            .replace(empty_string, np.nan, regex=False)
-        )
-
-        column_name = ['tipo', 'fecha', 'lugar', 'alumno', 'area']
-
-        final_titles = (
-            pd.concat(
-                [
-                    second_test,
-                    dates,
-                    places,
-                    third_user,
-                    areas,
-                ],
-                axis=1
-            )
-        )
-
-        final_titles.columns = column_name 
-
-        return final_titles
+        return dates
     
     @staticmethod
     def titles_to_columns(raw_titles):
         handle_titles = HandleRawTitles(raw_titles)
         unstacked_titles = handle_titles.generate_unstacked_titles()
-        column_titles = HandleTitles._handle_columns(
+        date_column = HandleTitles._handle_columns(
             unstacked_titles,
             'first',
             'second',
@@ -331,4 +193,4 @@ class HandleTitles:
             'fourth'
         )
         
-        return column_titles
+        return date_column

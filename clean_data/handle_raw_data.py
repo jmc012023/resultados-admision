@@ -4,11 +4,6 @@ import re
 class RawData:
 
     @staticmethod
-    def read(df):
-        raw_data = pd.read_csv(df)
-        return raw_data
-
-    @staticmethod
     def delete_white_spaces(raw_data):
         many_white_spaces = re.compile(r'\s+')
         one_white_space = ' '
@@ -49,7 +44,6 @@ class RawData:
 
 
 def handle(df):
-    raw_data = RawData.read(df)
-    raw_data = RawData.delete_white_spaces(raw_data)
+    raw_data = RawData.delete_white_spaces(df)
     raw_titles, raw_results = RawData.divide(raw_data)
     return raw_titles, raw_results
