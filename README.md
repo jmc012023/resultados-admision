@@ -10,7 +10,7 @@ El script main.py genera un archivo csv llamado unt_results.csv, que contiene to
 
 # INICIAR EL PROYECTO
 
-Tener instalado Python3.10 o versiones superiores y pip, y ejecutar `pip install -r requirements.txt`. Ejecutar el script main.py con `python3 main.py`. Este script genera dos archivos csv, uno la ruta `/get/data/raw_data.csv` y otro en `/unt_results.csv`. Actualmente estos archivos ya se encuentran en el proyecto por motivos didacticos, pero se los puede borrar antes de ejecutar el script main.py, y el script los creara nuevamente
+Tener instalado Python3.10 o versiones superiores y pip, y ejecutar `pip install -r requirements.txt`. Ejecutar el script main.py con `python3 main.py`. Este script genera archivos .csv, los cuales sirven para los archivos .ipynb para documentacion. Actualmente estos archivos ya se encuentran en el proyecto por motivos didacticos, pero se los puede borrar antes de ejecutar el script main.py, y el script los creara nuevamente
 
 # RESULTADOS
 

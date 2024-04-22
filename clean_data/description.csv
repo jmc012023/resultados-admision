@@ -1,0 +1,207 @@
+link,fecha_periodo,numero_periodo,tipo_exam,modalidad,lugar
+http://admisionunt.info/docs/padrones/20191/20191_cepunt/20191_cepunt_truji.txt,2019,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20191/20191_cepunt/20191_cepunt_valle.txt,2019,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20191/20191_cepunt/20191_cepunt_huama.txt,2019,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario_A.txt,2019,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario_B.txt,2019,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario5to_A.txt,2019,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario5to_B.txt,2019,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20191/20191_extraordinario/20191_extraordinario_trujillo_excelencia.txt,2019,I,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20191/20191_extraordinario/20191_extraordinario_trujillo_discapacidad.txt,2019,I,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_cepunt/20192_cepunt_truji.txt,2019,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_cepunt/20192_cepunt_valle.txt,2019,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20192/20192_cepunt/20192_cepunt_huama.txt,2019,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_truji_A.txt,2019,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_truji_B.txt,2019,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_valle_A.txt,2019,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_valle_B.txt,2019,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_huama_A.txt,2019,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_huama_B.txt,2019,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_stgo_A.txt,2019,II,ORDINARIO,Normal,Santiago de Chuco
+http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_excelencia.txt,2019,II,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_discapacidad.txt,2019,II,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_deportista.txt,2019,II,EXTRAORDINARIO,Deportistas Calificados,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_victimas.txt,2019,II,EXTRAORDINARIO,Victimas de la Violencia,Trujillo
+http://admisionunt.info/docs/padrones/20192/20192_extraordinario_sedes/20192_extraordinario_valle_excelencia.txt,2019,II,EXTRAORDINARIO,Excelencia,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20192/20192_extraordinario_sedes/20192_extraordinario_huama_excelencia.txt,2019,II,EXTRAORDINARIO,Excelencia,Huamachuco
+http://admisionunt.info/docs/padrones/20192/20192_extraordinario_sedes/20192_extraordinario_stgo_excelencia.txt,2019,II,EXTRAORDINARIO,Excelencia,Santiago de Chuco
+http://admisionunt.info/docs/padrones/20201/20201_cepunt/20201_cepunt_truji.txt,2020,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20201/20201_cepunt/20201_cepunt_valle.txt,2020,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20201/20201_cepunt/20201_cepunt_huama.txt,2020,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario_A.txt,2020,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario_B.txt,2020,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario5to_A.txt,2020,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario5to_B.txt,2020,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20201/20201_extraordinario/20201_extraordinario_trujillo_excelencia.txt,2020,I,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20201/20201_extraordinario/20201_extraordinario_trujillo_discapacidad.txt,2020,I,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_cepunt/20202_cepunt_truji.txt,2020,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_cepunt/20202_cepunt_valle.txt,2020,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20202/20202_cepunt/20202_cepunt_huama.txt,2020,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_trujillo_ordinario_A.txt,2020,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_trujillo_ordinario_B.txt,2020,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_valle_ordinario_A.txt,2020,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_valle_ordinario_B.txt,2020,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_huama_ordinario_A.txt,2020,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_huama_ordinario_B.txt,2020,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_stgo_ordinario_A.txt,2020,II,ORDINARIO,Normal,Santiago de Chuco
+http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_excelencia.txt,2020,II,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_discapacidad.txt,2020,II,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_deportista.txt,2020,II,EXTRAORDINARIO,Deportistas Calificados,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_victimas.txt,2020,II,EXTRAORDINARIO,Victimas de la Violencia,Trujillo
+http://admisionunt.info/docs/padrones/20202/20202_extraordinario_sedes/20202_extraordinario_valle_excelencia.txt,2020,II,EXTRAORDINARIO,Excelencia,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20202/20202_extraordinario_sedes/20202_extraordinario_huama_excelencia.txt,2020,II,EXTRAORDINARIO,Excelencia,Huamachuco
+http://admisionunt.info/docs/padrones/20202/20202_extraordinario_sedes/20202_extraordinario_stgo_excelencia.txt,2020,II,EXTRAORDINARIO,Excelencia,Santiago de Chuco
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_trujillo_A.txt,2021,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_trujillo_B.txt,2021,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_trujillo_CD.txt,2021,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_valle_A.txt,2021,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_valle_B.txt,2021,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_valle_CD.txt,2021,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_huamachuco_A.txt,2021,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_huamachuco_B.txt,2021,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_huamachuco_CD.txt,2021,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_A.txt,2021,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_B.txt,2021,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_C.txt,2021,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_D.txt,2021,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_A.txt,2021,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_B.txt,2021,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_C.txt,2021,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_D.txt,2021,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20211/20211_extraordinario/20211_extraordinario_trujillo.txt,2021,I,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_trujillo_A.txt,2021,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_trujillo_B.txt,2021,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_trujillo_CD.txt,2021,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_valle_A.txt,2021,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_valle_B.txt,2021,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_valle_CD.txt,2021,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_huamachuco_A.txt,2021,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_huamachuco_B.txt,2021,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_huamachuco_CD.txt,2021,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_trujillo_ordinario_A.txt,2021,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_trujillo_ordinario_B.txt,2021,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_trujillo_ordinario_CD.txt,2021,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_valle_ordinario_A.txt,2021,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_valle_ordinario_B.txt,2021,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_valle_ordinario_CD.txt,2021,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_huamachuco_ordinario_A.txt,2021,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_huamachuco_ordinario_B.txt,2021,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_huamachuco_ordinario_D.txt,2021,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_stgo_ordinario_B.txt,2021,II,ORDINARIO,Normal,Santiago de Chuco
+http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_excelencia_trujillo.txt,2021,II,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_discapacitados_trujillo.txt,2021,II,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_victimas_trujillo.txt,2021,II,EXTRAORDINARIO,Victimas de la Violencia,Trujillo
+http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_excelencia_valle.txt,2021,II,EXTRAORDINARIO,Excelencia,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_excelencia_huamachuco.txt,2021,II,EXTRAORDINARIO,Excelencia,Huamachuco
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_trujillo_A.txt,2022,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_trujillo_B.txt,2022,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_trujillo_CD.txt,2022,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_valle_A.txt,2022,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_valle_B.txt,2022,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_valle_CD.txt,2022,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_huamachuco_A.txt,2022,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_huamachuco_B.txt,2022,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_huamachuco_CD.txt,2022,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_ordinario_A.txt,2022,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_ordinario_B.txt,2022,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_ordinario_CD.txt,2022,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_5to_A.txt,2022,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_5to_B.txt,2022,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_5to_CD.txt,2022,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_extraordinario/20221_extraordinario_trujillo.txt,2022,I,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20221/20221_extraordinario/20221_disca_trujillo.txt,2022,I,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_trujillo_A.txt,2022,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_trujillo_B.txt,2022,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_trujillo_CD.txt,2022,II,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_valle_A.txt,2022,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_valle_B.txt,2022,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_valle_CD.txt,2022,II,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_huamachuco_A.txt,2022,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_huamachuco_B.txt,2022,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_huamachuco_CD.txt,2022,II,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_trujillo_ordinario_A.txt,2022,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_trujillo_ordinario_B.txt,2022,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_trujillo_ordinario_CD.txt,2022,II,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_valle_ordinario_A.txt,2022,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_valle_ordinario_B.txt,2022,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_valle_ordinario_CD.txt,2022,II,ORDINARIO,Normal,Valle
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_huamachuco_ordinario_A.txt,2022,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_huamachuco_ordinario_B.txt,2022,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_huamachuco_ordinario_D.txt,2022,II,ORDINARIO,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_stgo_ordinario_B.txt,2022,II,ORDINARIO,Normal,Santiago de Chuco
+http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_excelencia_trujillo.txt,2022,II,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_discapacitados_trujillo.txt,2022,II,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_victimas_trujillo.txt,2022,II,EXTRAORDINARIO,Victimas de la Violencia,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_deportistas_trujillo.txt,2022,II,EXTRAORDINARIO,Deportistas Calificados,Trujillo
+http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_excelencia_valle.txt,2022,II,EXTRAORDINARIO,Excelencia,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_excelencia_huamachuco.txt,2022,II,EXTRAORDINARIO,Excelencia,Huamachuco
+http://admisionunt.info/docs/padrones/20231/20231-excelencia-trujillo.txt,2023,I,EXTRAORDINARIO,Excelencia,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231-persona-discapacidad.txt,2023,I,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_trujillo_A.txt,2023,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_trujillo_B.txt,2023,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_trujillo_CD.txt,2023,I,CEPUNT,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_valle_A.txt,2023,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_valle_B.txt,2023,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_valle_CD.txt,2023,I,CEPUNT,Normal,Valle Jequetepeque
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_huamachuco_A.txt,2023,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_huamachuco_B.txt,2023,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_huamachuco_CD.txt,2023,I,CEPUNT,Normal,Huamachuco
+http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario_truji_A.txt,2023,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario5to_A.txt,2023,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario_truji_B.txt,2023,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario_truji_CD.txt,2023,I,ORDINARIO,Normal,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario5to_B.txt,2023,I,ORDINARIO,5to Secundaria,Trujillo
+http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario5to_CD.txt,2023,I,ORDINARIO,5to Secundaria,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_100320230547.txt,2023,II,CEPUNT,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_110320230602.txt,2023,II,CEPUNT,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_120320230543.txt,2023,II,CEPUNT,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_100320230544.txt,2023,II,CEPUNT,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_110320230545.txt,2023,II,CEPUNT,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_120320230541.txt,2023,II,CEPUNT,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_100320230549.txt,2023,II,CEPUNT,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_110320230628.txt,2023,II,CEPUNT,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_120320230547.txt,2023,II,CEPUNT,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230631.txt,2023,II,EXTRAORDINARIO,Excelencia,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230636.txt,2023,II,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230638.txt,2023,II,EXTRAORDINARIO,Victimas de la Violencia,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230639.txt,2023,II,EXTRAORDINARIO,Victimas de la Violencia Excelencia,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230633.txt,2023,II,EXTRAORDINARIO,Excelencia,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230635.txt,2023,II,EXTRAORDINARIO,Excelencia,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_240320230530.txt,2023,II,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_250320230631.txt,2023,II,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230619.txt,2023,II,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_240320230533.txt,2023,II,ORDINARIO,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_250320230635.txt,2023,II,ORDINARIO,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230621.txt,2023,II,ORDINARIO,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_240320230541.txt,2023,II,ORDINARIO,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230551.txt,2023,II,ORDINARIO,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230625.txt,2023,II,ORDINARIO,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_250320230733.txt,2023,II,ORDINARIO,Normal,Santiago de Chuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/8//77_DOC_CONVO_200820231146.txt,2024,I,CEPUNT,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/8//77_DOC_CONVO_210820231240.txt,2024,I,CEPUNT,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2023/8//77_DOC_CONVO_210820231242.txt,2024,I,CEPUNT,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//84_DOC_CONVO_030920230617.txt,2024,I,EXTRAORDINARIO,Excelencia,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//84_DOC_CONVO_030920230618.txt,2024,I,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_300920230853.txt,2024,I,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_300920230847.txt,2024,I,ORDINARIO,5to Secundaria,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_240920230959.txt,2024,I,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_240920230904.txt,2024,I,ORDINARIO,5to Secundaria,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_230920231114.txt,2024,I,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_230920231112.txt,2024,I,ORDINARIO,5to Secundaria,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/2//91_DOC_CONVO_180220241102.txt,2024,II,CEPUNT,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2024/2//91_DOC_CONVO_180220241100.txt,2024,II,CEPUNT,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2024/2//91_DOC_CONVO_180220241059.txt,2024,II,CEPUNT,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240427.txt,2024,II,EXTRAORDINARIO,Excelencia,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240432.txt,2024,II,EXTRAORDINARIO,Excelencia,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240431.txt,2024,II,EXTRAORDINARIO,Excelencia,Santiago de Chuco
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240430.txt,2024,II,EXTRAORDINARIO,Excelencia,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240426.txt,2024,II,EXTRAORDINARIO,Personas con Discapacidad,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240425.txt,2024,II,EXTRAORDINARIO,Victimas de la Violencia,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240424.txt,2024,II,EXTRAORDINARIO,Deportistas Calificados,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240632.txt,2024,II,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240845.txt,2024,II,ORDINARIO,Normal,Trujillo
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240646.txt,2024,II,ORDINARIO,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240847.txt,2024,II,ORDINARIO,Normal,Huamachuco
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240644.txt,2024,II,ORDINARIO,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240846.txt,2024,II,ORDINARIO,Normal,Valle Jequetepeque
+https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240848.txt,2024,II,ORDINARIO,Normal,Santiago de Chuco

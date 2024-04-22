@@ -7,6 +7,7 @@ from clean_data.last_details import HandleGrades
 def generate_cleaned_data(raw_data, description):
 
     raw_data.to_csv("./clean_data/raw_data.csv", index=False)
+    description.to_csv("./clean_data/description.csv", index=False)
 
     raw_titles, raw_results = handle(raw_data)
 
