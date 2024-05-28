@@ -108,7 +108,7 @@ class HandleRawResults:
             axis=1  
         )
 
-        column_names = ['names','r1', 'r2', 'r3', 'r4', 'r5', 'escuela', 'resultado', 'n_df']
+        column_names = ['nombres','r1', 'r2', 'r3', 'r4', 'r5', 'escuela', 'resultado', 'n_df']
 
         joined_results.columns = column_names
 
