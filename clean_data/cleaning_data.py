@@ -19,8 +19,6 @@ def generate_cleaned_data(raw_data, description):
 
     new_combined_data = Perform.join_results_with_description(combined_data, description)
 
-    # combined_data = Perform.add_periods(combined_data)
-
     fourth_grades = HandleGrades.filter_fourth_grades(new_combined_data)
     third_grades = HandleGrades.filter_third_grades(new_combined_data)
     first_grades = HandleGrades.filter_first_grades(new_combined_data)

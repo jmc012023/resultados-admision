@@ -14,6 +14,8 @@ class HandleRawResults:
             .str.extract(valid_name)
             [0]
             .str.strip()
+            .str.replace('0 0', '', regex=False)
+            .str.rstrip()
         )       
 
     @staticmethod

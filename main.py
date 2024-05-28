@@ -22,7 +22,7 @@ async def main():
 
     # print(results)
 
-    results.to_csv('unt_results.csv', index=False)
+    results.to_csv('unt_results.csv', index=False, encoding="utf-8")
 
 if __name__ == '__main__':
     asyncio.run(main())
