@@ -35,7 +35,7 @@ def scraping_web(response: Response, id_selector: str, class_selector: str):
 
     period_contents: ResultSet[Tag] = map(
         lambda period_accordion: period_accordion.find("div"),
-        period_accordions
+        period_accordions[:-1]
         )
 
     results: list[tuple[str, str, str, str]] = []

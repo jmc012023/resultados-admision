@@ -59,6 +59,8 @@ class HandleRawResults:
         negative_pattern = re.compile(r'NO\D+')
         positive_result = 'SI'
         negative_result = 'NO'
+        ingresa = 'INGRESA'
+        no_ingresa = 'NO INGRESA'
 
         return (
             school_and_details
@@ -67,6 +69,8 @@ class HandleRawResults:
             .str.strip()
             .str.replace(negative_pattern, negative_result, regex=True)
             .str.replace(possitive_pattern, positive_result, regex=True)
+            .str.replace(positive_result, ingresa, regex=False)
+            .str.replace(negative_result, no_ingresa, regex=False)
         )
     
     @staticmethod
