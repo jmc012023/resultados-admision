@@ -74,7 +74,6 @@ def create_column_mod(description_values: Series):
         .str.replace("Víctimas", "Victimas", regex=False)
         .str.replace("Personas", "Persona", regex=False)
         .str.replace("Persona", "Personas", regex=False)
-        # .value_counts()
         )
     
     column_mod.name = "modalidad"
@@ -164,9 +163,30 @@ def filling_data(raw_description: DataFrame):
 
     return raw_description
 
+def convert_to_lower(description: DataFrame):
+
+    description['tipo_exam'] = (
+        description['tipo_exam']
+        .str.lower()
+    )
+
+    description['lugar'] = (
+        description['lugar']
+        .str.lower()
+    )
+
+    description['modalidad'] = (
+        description['modalidad']
+        .str.lower()
+        .str.replace('victimas de la violencia excelencia', 'victimas de la violencia', regex=False)
+    )
+    
+    return description
+
 def clean_data(raw_description: DataFrame):
     raw_description = delete_sumativos_i(raw_description)
     raw_description = generate_columns(raw_description)
     description = filling_data(raw_description)
+    description = convert_to_lower(description)
 
     return description

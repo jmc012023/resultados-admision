@@ -16,6 +16,8 @@ class HandleRawResults:
             .str.strip()
             .str.replace('0 0', '', regex=False)
             .str.rstrip()
+            .str.replace('0', 'O', regex=False)
+            .str.lower()
         )       
 
     @staticmethod
@@ -71,6 +73,10 @@ class HandleRawResults:
             .str.replace(possitive_pattern, positive_result, regex=True)
             .str.replace(positive_result, ingresa, regex=False)
             .str.replace(negative_result, no_ingresa, regex=False)
+            .str.replace('.', '', regex=False)
+            .str.replace('ING 2-OPC', 'SEGUNDA OPC', regex=False)
+            .str.lower()
+            .str.strip()
         )
     
     @staticmethod
@@ -91,6 +97,11 @@ class HandleRawResults:
             )
             .str.upper()
             .str.strip()
+            .str.replace(".", " ", regex=False)
+            .str.replace(":", " ", regex=False)
+            .str.strip()
+            .str.replace("\s+", " ", regex=True)
+            .str.lower()
         )
     
     @staticmethod
