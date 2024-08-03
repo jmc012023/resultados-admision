@@ -16,7 +16,7 @@ class HandleGrades:
     
     @staticmethod
     def _create_filter_first_grades(results):
-        types = ["EXTRAORDINARIO", "ORDINARIO"]
+        types = ["extraordinario", "ordinario"]
         year = 2024
         period = "II"
 
