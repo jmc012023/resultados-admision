@@ -5,7 +5,7 @@ import re
 
 def create_period_columns(periods_column: Series):
     # periods['year_period'] = periods['year_period'].astype('int64')
-    return (
+    periods = (
         periods_column
         .str.lower()
         .str.replace('ó', 'o', regex=False)
@@ -16,6 +16,9 @@ def create_period_columns(periods_column: Series):
         .iloc[:, 1:]
         .rename(columns={1: ResultColumnNames.YEAR_PERIOD.value, 2: ResultColumnNames.PERIOD.value})
     )
+
+    periods[ResultColumnNames.YEAR_PERIOD.value] = periods[ResultColumnNames.YEAR_PERIOD.value].astype('int64')
+    return periods
 
 def create_test_column(test_type_column: Series):
     return (
