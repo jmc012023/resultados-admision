@@ -1,0 +1,219 @@
+id_result,periods,test_type,details,link
+0,ADMISIÓN 2019-I,CEPUNT,Resultados Cepunt Trujillo,http://admisionunt.info/docs/padrones/20191/20191_cepunt/20191_cepunt_truji.txt
+1,ADMISIÓN 2019-I,CEPUNT,Resultados Cepunt Valle Jequetepeque,http://admisionunt.info/docs/padrones/20191/20191_cepunt/20191_cepunt_valle.txt
+2,ADMISIÓN 2019-I,CEPUNT,Resultados Cepunt Huamachuco,http://admisionunt.info/docs/padrones/20191/20191_cepunt/20191_cepunt_huama.txt
+3,ADMISIÓN 2019-I,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario_A.txt
+4,ADMISIÓN 2019-I,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario_B.txt
+5,ADMISIÓN 2019-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área A Trujillo,http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario5to_A.txt
+6,ADMISIÓN 2019-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área B Trujillo,http://admisionunt.info/docs/padrones/20191/20191_ordinario/20191_ordinario5to_B.txt
+7,ADMISIÓN 2019-I,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20191/20191_extraordinario/20191_extraordinario_trujillo_excelencia.txt
+8,ADMISIÓN 2019-I,EXTRAORDINARIO,Resultados Personas con Discapacidad Trujillo,http://admisionunt.info/docs/padrones/20191/20191_extraordinario/20191_extraordinario_trujillo_discapacidad.txt
+9,ADMISIÓN 2019-II,CEPUNT,Resultados Cepunt Trujillo,http://admisionunt.info/docs/padrones/20192/20192_cepunt/20192_cepunt_truji.txt
+10,ADMISIÓN 2019-II,CEPUNT,Resultados Cepunt Valle Jequetepeque,http://admisionunt.info/docs/padrones/20192/20192_cepunt/20192_cepunt_valle.txt
+11,ADMISIÓN 2019-II,CEPUNT,Resultados Cepunt Huamachuco,http://admisionunt.info/docs/padrones/20192/20192_cepunt/20192_cepunt_huama.txt
+12,ADMISIÓN 2019-II,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_truji_A.txt
+13,ADMISIÓN 2019-II,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_truji_B.txt
+14,ADMISIÓN 2019-II,ORDINARIO,Resultados Ordinario Área A Valle,http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_valle_A.txt
+15,ADMISIÓN 2019-II,ORDINARIO,Resultados Ordinario Área B Valle,http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_valle_B.txt
+16,ADMISIÓN 2019-II,ORDINARIO,Resultados Ordinario Área A Huamachuco,http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_huama_A.txt
+17,ADMISIÓN 2019-II,ORDINARIO,Resultados Ordinario Área B Huamachuco,http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_huama_B.txt
+18,ADMISIÓN 2019-II,ORDINARIO,Resultados Ordinario Área A Santiago de Chuco,http://admisionunt.info/docs/padrones/20192/20192_ordinario/20192_ordinario_stgo_A.txt
+19,ADMISIÓN 2019-II,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_excelencia.txt
+20,ADMISIÓN 2019-II,EXTRAORDINARIO,Resultados Personas con Discapacidad Trujillo,http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_discapacidad.txt
+21,ADMISIÓN 2019-II,EXTRAORDINARIO,Resultados Deportistas Calificados Trujillo,http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_deportista.txt
+22,ADMISIÓN 2019-II,EXTRAORDINARIO,Resultados Víctimas de la Violencia Trujillo,http://admisionunt.info/docs/padrones/20192/20192_extraordinario_trujillo/20192_extraordinario_trujillo_victimas.txt
+23,ADMISIÓN 2019-II,EXTRAORDINARIO,Resultados Excelencia Valle Jequetepeque,http://admisionunt.info/docs/padrones/20192/20192_extraordinario_sedes/20192_extraordinario_valle_excelencia.txt
+24,ADMISIÓN 2019-II,EXTRAORDINARIO,Resultados Excelencia Huamachuco,http://admisionunt.info/docs/padrones/20192/20192_extraordinario_sedes/20192_extraordinario_huama_excelencia.txt
+25,ADMISIÓN 2019-II,EXTRAORDINARIO,Resultados Excelencia Santiago de Chuco,http://admisionunt.info/docs/padrones/20192/20192_extraordinario_sedes/20192_extraordinario_stgo_excelencia.txt
+26,ADMISIÓN 2020-I,CEPUNT,Resultados Cepunt Trujillo,http://admisionunt.info/docs/padrones/20201/20201_cepunt/20201_cepunt_truji.txt
+27,ADMISIÓN 2020-I,CEPUNT,Resultados Cepunt Valle Jequetepeque,http://admisionunt.info/docs/padrones/20201/20201_cepunt/20201_cepunt_valle.txt
+28,ADMISIÓN 2020-I,CEPUNT,Resultados Cepunt Huamachuco,http://admisionunt.info/docs/padrones/20201/20201_cepunt/20201_cepunt_huama.txt
+29,ADMISIÓN 2020-I,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario_A.txt
+30,ADMISIÓN 2020-I,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario_B.txt
+31,ADMISIÓN 2020-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área A Trujillo,http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario5to_A.txt
+32,ADMISIÓN 2020-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área B Trujillo,http://admisionunt.info/docs/padrones/20201/20201_ordinario/20201_ordinario5to_B.txt
+33,ADMISIÓN 2020-I,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20201/20201_extraordinario/20201_extraordinario_trujillo_excelencia.txt
+34,ADMISIÓN 2020-I,EXTRAORDINARIO,Resultados Personas con Discapacidad Trujillo,http://admisionunt.info/docs/padrones/20201/20201_extraordinario/20201_extraordinario_trujillo_discapacidad.txt
+35,ADMISIÓN 2020-II,CEPUNT,Resultados Cepunt Trujillo,http://admisionunt.info/docs/padrones/20202/20202_cepunt/20202_cepunt_truji.txt
+36,ADMISIÓN 2020-II,CEPUNT,Resultados Cepunt Valle Jequetepeque,http://admisionunt.info/docs/padrones/20202/20202_cepunt/20202_cepunt_valle.txt
+37,ADMISIÓN 2020-II,CEPUNT,Resultados Cepunt Huamachuco,http://admisionunt.info/docs/padrones/20202/20202_cepunt/20202_cepunt_huama.txt
+38,ADMISIÓN 2020-II,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_trujillo_ordinario_A.txt
+39,ADMISIÓN 2020-II,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_trujillo_ordinario_B.txt
+40,ADMISIÓN 2020-II,ORDINARIO,Resultados Ordinario Área A Valle,http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_valle_ordinario_A.txt
+41,ADMISIÓN 2020-II,ORDINARIO,Resultados Ordinario Área B Valle,http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_valle_ordinario_B.txt
+42,ADMISIÓN 2020-II,ORDINARIO,Resultados Ordinario Área A Huamachuco,http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_huama_ordinario_A.txt
+43,ADMISIÓN 2020-II,ORDINARIO,Resultados Ordinario Área B Huamachuco,http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_huama_ordinario_B.txt
+44,ADMISIÓN 2020-II,ORDINARIO,Resultados Ordinario Área A Samtiago de Chuco,http://admisionunt.info/docs/padrones/20202/20202_ordinario/20202_stgo_ordinario_A.txt
+45,ADMISIÓN 2020-II,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_excelencia.txt
+46,ADMISIÓN 2020-II,EXTRAORDINARIO,Resultados Personas con Discapacidad Trujillo,http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_discapacidad.txt
+47,ADMISIÓN 2020-II,EXTRAORDINARIO,Resultados Deportistas Calificados Trujillo,http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_deportista.txt
+48,ADMISIÓN 2020-II,EXTRAORDINARIO,Resultados Víctimas de la Violencia Trujillo,http://admisionunt.info/docs/padrones/20202/20202_extraordinario_trujillo/20202_extraordinario_trujillo_victimas.txt
+49,ADMISIÓN 2020-II,EXTRAORDINARIO,Resultados Excelencia Valle Jequetepeque,http://admisionunt.info/docs/padrones/20202/20202_extraordinario_sedes/20202_extraordinario_valle_excelencia.txt
+50,ADMISIÓN 2020-II,EXTRAORDINARIO,Resultados Excelencia Huamachuco,http://admisionunt.info/docs/padrones/20202/20202_extraordinario_sedes/20202_extraordinario_huama_excelencia.txt
+51,ADMISIÓN 2020-II,EXTRAORDINARIO,Resultados Excelencia Santiago de Chuco,http://admisionunt.info/docs/padrones/20202/20202_extraordinario_sedes/20202_extraordinario_stgo_excelencia.txt
+52,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Trujillo Área A,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_trujillo_A.txt
+53,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Trujillo Área B,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_trujillo_B.txt
+54,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Trujillo Área C y D,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_trujillo_CD.txt
+55,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área A,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_valle_A.txt
+56,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área B,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_valle_B.txt
+57,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área C y D,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_valle_CD.txt
+58,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Huamachuco Área A,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_huamachuco_A.txt
+59,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Huamachuco Área B,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_huamachuco_B.txt
+60,ADMISIÓN 2021-I,CEPUNT,Resultados Cepunt Huamachuco Área C y D,http://admisionunt.info/docs/padrones/20211/20211_cepunt/20211_cepunt_huamachuco_CD.txt
+61,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_A.txt
+62,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_B.txt
+63,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario Área C Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_C.txt
+64,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario Área D Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario_trujillo_D.txt
+65,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área A Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_A.txt
+66,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área B Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_B.txt
+67,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área C Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_C.txt
+68,ADMISIÓN 2021-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área D Trujillo,http://admisionunt.info/docs/padrones/20211/20211_ordinario/20211_ordinario5to_trujillo_D.txt
+69,ADMISIÓN 2021-I,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20211/20211_extraordinario/20211_extraordinario_trujillo.txt
+70,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Trujillo Área-A,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_trujillo_A.txt
+71,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Trujillo Área-B,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_trujillo_B.txt
+72,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Trujillo Área-C y D,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_trujillo_CD.txt
+73,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área-A,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_valle_A.txt
+74,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área-B,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_valle_B.txt
+75,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área-C y D,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_valle_CD.txt
+76,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Huamachuco Área-A,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_huamachuco_A.txt
+77,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Huamachuco Área-B,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_huamachuco_B.txt
+78,ADMISIÓN 2021-II,CEPUNT,Resultados Cepunt Huamachuco Área-C y D,http://admisionunt.info/docs/padrones/20212/20212_cepunt/20212_cepunt_huamachuco_CD.txt
+79,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_trujillo_ordinario_A.txt
+80,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_trujillo_ordinario_B.txt
+81,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área C y D Trujillo,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_trujillo_ordinario_CD.txt
+82,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área A Valle,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_valle_ordinario_A.txt
+83,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área B Valle,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_valle_ordinario_B.txt
+84,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área C y D Valle,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_valle_ordinario_CD.txt
+85,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área A Huamachuco,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_huamachuco_ordinario_A.txt
+86,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área B Huamachuco,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_huamachuco_ordinario_B.txt
+87,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área D Huamachuco,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_huamachuco_ordinario_D.txt
+88,ADMISIÓN 2021-II,ORDINARIO,Resultados Ordinario Área B Samtiago de Chuco,http://admisionunt.info/docs/padrones/20212/20212_ordinario/20212_stgo_ordinario_B.txt
+89,ADMISIÓN 2021-II,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_excelencia_trujillo.txt
+90,ADMISIÓN 2021-II,EXTRAORDINARIO,Resultados Personas con Discapacidad Trujillo,http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_discapacitados_trujillo.txt
+91,ADMISIÓN 2021-II,EXTRAORDINARIO,Resultados Víctimas de la Violencia Trujillo,http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_victimas_trujillo.txt
+92,ADMISIÓN 2021-II,EXTRAORDINARIO,Resultados Excelencia Valle Jequetepeque,http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_excelencia_valle.txt
+93,ADMISIÓN 2021-II,EXTRAORDINARIO,Resultados Excelencia Huamachuco,http://admisionunt.info/docs/padrones/20212/20212_extraordinario/20212_excelencia_huamachuco.txt
+94,ADMISION 2022-I,CEPUNT,Resultados Cepunt Trujillo Área A,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_trujillo_A.txt
+95,ADMISION 2022-I,CEPUNT,Resultados Cepunt Trujillo Área B,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_trujillo_B.txt
+96,ADMISION 2022-I,CEPUNT,Resultados Cepunt Trujillo Área C y D,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_trujillo_CD.txt
+97,ADMISION 2022-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área A,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_valle_A.txt
+98,ADMISION 2022-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área B,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_valle_B.txt
+99,ADMISION 2022-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área C y D,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_valle_CD.txt
+100,ADMISION 2022-I,CEPUNT,Resultados Cepunt Huamachuco Área A,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_huamachuco_A.txt
+101,ADMISION 2022-I,CEPUNT,Resultados Cepunt Huamachuco Área B,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_huamachuco_B.txt
+102,ADMISION 2022-I,CEPUNT,Resultados Cepunt Huamachuco Área C y D,http://admisionunt.info/docs/padrones/20221/20221_cepunt/20221_cepunt_huamachuco_CD.txt
+103,ADMISION 2022-I,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_ordinario_A.txt
+104,ADMISION 2022-I,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_ordinario_B.txt
+105,ADMISION 2022-I,ORDINARIO,Resultados Ordinario Área C y D Trujillo,http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_ordinario_CD.txt
+106,ADMISION 2022-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área A Trujillo,http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_5to_A.txt
+107,ADMISION 2022-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área B Trujillo,http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_5to_B.txt
+108,ADMISION 2022-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área C y D Trujillo,http://admisionunt.info/docs/padrones/20221/20221_ordinario/20221_trujillo_5to_CD.txt
+109,ADMISION 2022-I,EXTRAORDINARIO,Resultados Excelencia - Trujillo,http://admisionunt.info/docs/padrones/20221/20221_extraordinario/20221_extraordinario_trujillo.txt
+110,ADMISION 2022-I,EXTRAORDINARIO,Resultados Personas con Discapacidad - Trujillo,http://admisionunt.info/docs/padrones/20221/20221_extraordinario/20221_disca_trujillo.txt
+111,ADMISION 2022-II,CEPUNT,Resultados Cepunt Trujillo Área A,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_trujillo_A.txt
+112,ADMISION 2022-II,CEPUNT,Resultados Cepunt Trujillo Área B,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_trujillo_B.txt
+113,ADMISION 2022-II,CEPUNT,Resultados Cepunt Trujillo Área C y D,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_trujillo_CD.txt
+114,ADMISION 2022-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área A,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_valle_A.txt
+115,ADMISION 2022-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área B,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_valle_B.txt
+116,ADMISION 2022-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área C y D,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_valle_CD.txt
+117,ADMISION 2022-II,CEPUNT,Resultados Cepunt Huamachuco Área A,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_huamachuco_A.txt
+118,ADMISION 2022-II,CEPUNT,Resultados Cepunt Huamachuco Área B,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_huamachuco_B.txt
+119,ADMISION 2022-II,CEPUNT,Resultados Cepunt Huamachuco Área C y D,http://admisionunt.info/docs/padrones/20222/20222_cepunt/20222_cepunt_huamachuco_CD.txt
+120,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_trujillo_ordinario_A.txt
+121,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_trujillo_ordinario_B.txt
+122,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área C y D Trujillo,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_trujillo_ordinario_CD.txt
+123,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área A Valle,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_valle_ordinario_A.txt
+124,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área B Valle,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_valle_ordinario_B.txt
+125,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área C y D Valle,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_valle_ordinario_CD.txt
+126,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área A Huamachuco,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_huamachuco_ordinario_A.txt
+127,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área B Huamachuco,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_huamachuco_ordinario_B.txt
+128,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área D Huamachuco,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_huamachuco_ordinario_D.txt
+129,ADMISION 2022-II,ORDINARIO,Resultados Ordinario Área B Samtiago de Chuco,http://admisionunt.info/docs/padrones/20222/20222_ordinario/20222_stgo_ordinario_B.txt
+130,ADMISION 2022-II,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_excelencia_trujillo.txt
+131,ADMISION 2022-II,EXTRAORDINARIO,Resultados Personas con Discapacidad Trujillo,http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_discapacitados_trujillo.txt
+132,ADMISION 2022-II,EXTRAORDINARIO,Resultados Víctimas de la Violencia Trujillo,http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_victimas_trujillo.txt
+133,ADMISION 2022-II,EXTRAORDINARIO,Resultados Deportistas Calificados Trujillo,http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_deportistas_trujillo.txt
+134,ADMISION 2022-II,EXTRAORDINARIO,Resultados Excelencia Valle Jequetepeque,http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_excelencia_valle.txt
+135,ADMISION 2022-II,EXTRAORDINARIO,Resultados Excelencia Huamachuco,http://admisionunt.info/docs/padrones/20222/20222_extraordinario/20222_excelencia_huamachuco.txt
+136,ADMISION 2023-I,EXTRAORDINARIO,Resultados Excelencia Trujillo,http://admisionunt.info/docs/padrones/20231/20231-excelencia-trujillo.txt
+137,ADMISION 2023-I,EXTRAORDINARIO,Resultados Personas con Discapacidad,http://admisionunt.info/docs/padrones/20231/20231-persona-discapacidad.txt
+138,ADMISION 2023-I,CEPUNT,Resultados Cepunt Trujillo Área A,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_trujillo_A.txt
+139,ADMISION 2023-I,CEPUNT,Resultados Cepunt Trujillo Área B,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_trujillo_B.txt
+140,ADMISION 2023-I,CEPUNT,Resultados Cepunt Trujillo Área C y D,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_trujillo_CD.txt
+141,ADMISION 2023-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área A,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_valle_A.txt
+142,ADMISION 2023-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área B,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_valle_B.txt
+143,ADMISION 2023-I,CEPUNT,Resultados Cepunt Valle Jequetepeque Área C y D,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_valle_CD.txt
+144,ADMISION 2023-I,CEPUNT,Resultados Cepunt Huamachuco Área A,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_huamachuco_A.txt
+145,ADMISION 2023-I,CEPUNT,Resultados Cepunt Huamachuco Área B,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_huamachuco_B.txt
+146,ADMISION 2023-I,CEPUNT,Resultados Cepunt Huamachuco Área C y D,http://admisionunt.info/docs/padrones/20231/20231_cepunt/20231_cepunt_huamachuco_CD.txt
+147,ADMISION 2023-I,ORDINARIO,Resultados Ordinario Área A Trujillo,http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario_truji_A.txt
+148,ADMISION 2023-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área A Trujillo,http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario5to_A.txt
+149,ADMISION 2023-I,ORDINARIO,Resultados Ordinario Área B Trujillo,http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario_truji_B.txt
+150,ADMISION 2023-I,ORDINARIO,Resultados Ordinario Área C y D Trujillo,http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario_truji_CD.txt
+151,ADMISION 2023-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área B Trujillo,http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario5to_B.txt
+152,ADMISION 2023-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área C y D Trujillo,http://admisionunt.info/docs/padrones/20231/20231_ordinario/20231_ordinario5to_CD.txt
+153,ADMISION 2023-II,CEPUNT,Resultados Cepunt Trujillo Área A,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_100320230547.txt
+154,ADMISION 2023-II,CEPUNT,Resultados Cepunt Trujillo Área B,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_110320230602.txt
+155,ADMISION 2023-II,CEPUNT,Resultados Cepunt Trujillo Área C y D,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_120320230543.txt
+156,ADMISION 2023-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área A,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_100320230544.txt
+157,ADMISION 2023-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área B,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_110320230545.txt
+158,ADMISION 2023-II,CEPUNT,Resultados Cepunt Valle Jequetepeque Área C y D,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_120320230541.txt
+159,ADMISION 2023-II,CEPUNT,Resultados Cepunt Huamachuco Área A,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_100320230549.txt
+160,ADMISION 2023-II,CEPUNT,Resultados Cepunt Huamachuco Área B,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_110320230628.txt
+161,ADMISION 2023-II,CEPUNT,Resultados Cepunt Huamachuco Área C y D,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//71_DOC_CONVO_120320230547.txt
+162,ADMISION 2023-II,EXTRAORDINARIO,Resultados Excelencia Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230631.txt
+163,ADMISION 2023-II,EXTRAORDINARIO,Resultados Persona con Discapacidad,https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230636.txt
+164,ADMISION 2023-II,EXTRAORDINARIO,Resultados Víctimas de la Violencia Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230638.txt
+165,ADMISION 2023-II,EXTRAORDINARIO,Resultados Victimas de la Violencia Excelencia Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230639.txt
+166,ADMISION 2023-II,EXTRAORDINARIO,Resultados Excelencia Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230633.txt
+167,ADMISION 2023-II,EXTRAORDINARIO,Resultados Excelencia Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2023/2//69_DOC_CONVO_110220230635.txt
+168,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área A Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_240320230530.txt
+169,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área B Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_250320230631.txt
+170,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área C y D Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230619.txt
+171,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área A Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_240320230533.txt
+172,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área B Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_250320230635.txt
+173,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área C y D Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230621.txt
+174,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área A Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_240320230541.txt
+175,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área B Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230551.txt
+176,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área A Y D Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_260320230625.txt
+177,ADMISION 2023-II,ORDINARIO,Resultados Ordinario Área B Samtiago de Chuco,https://unitru.edu.pe/webfiles///Convocatoria/2023/3//73_DOC_CONVO_250320230733.txt
+178,ADMISION 2024-I,CEPUNT,Resultados I Sumativo CEPUNT: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/6//77_DOC_CONVO_250620230801.txt
+179,ADMISION 2024-I,CEPUNT,Resultados II Sumativo CEPUNT: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/8//77_DOC_CONVO_200820231146.txt
+180,ADMISION 2024-I,CEPUNT,Resultados I Sumativo CEPUNT: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2023/6//77_DOC_CONVO_250620230804.txt
+181,ADMISION 2024-I,CEPUNT,Resultados II Sumativo CEPUNT: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2023/8//77_DOC_CONVO_210820231240.txt
+182,ADMISION 2024-I,CEPUNT,Resultados I Sumativo CEPUNT: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2023/6//77_DOC_CONVO_250620230806.txt
+183,ADMISION 2024-I,CEPUNT,Resultados II Sumativo CEPUNT: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2023/8//77_DOC_CONVO_210820231242.txt
+184,ADMISION 2024-I,EXTRAORDINARIO,Resultados Excelencia Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//84_DOC_CONVO_030920230617.txt
+185,ADMISION 2024-I,EXTRAORDINARIO,Resultados Personas con Discapacidad,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//84_DOC_CONVO_030920230618.txt
+186,ADMISION 2024-I,ORDINARIO,Resultados Ordinario Área A Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_300920230853.txt
+187,ADMISION 2024-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área A Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_300920230847.txt
+188,ADMISION 2024-I,ORDINARIO,Resultados Ordinario Área B y C Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_240920230959.txt
+189,ADMISION 2024-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área B y C Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_240920230904.txt
+190,ADMISION 2024-I,ORDINARIO,Resultados Ordinario Área D Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_230920231114.txt
+191,ADMISION 2024-I,ORDINARIO,Resultados Ordinario 5to Secundaria Área D Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2023/9//87_DOC_CONVO_230920231112.txt
+192,ADMISION 2024-II,CEPUNT,I Sumativo CEPUNT: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/1//91_DOC_CONVO_070120240708.txt
+193,ADMISION 2024-II,CEPUNT,I Sumativo CEPUNT: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2024/1//91_DOC_CONVO_070120240701.txt
+194,ADMISION 2024-II,CEPUNT,I Sumativo CEPUNT: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2024/1//91_DOC_CONVO_070120240659.txt
+195,ADMISION 2024-II,CEPUNT,II Sumativo CEPUNT: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/2//91_DOC_CONVO_180220241102.txt
+196,ADMISION 2024-II,CEPUNT,II Sumativo CEPUNT: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2024/2//91_DOC_CONVO_180220241100.txt
+197,ADMISION 2024-II,CEPUNT,II Sumativo CEPUNT: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2024/2//91_DOC_CONVO_180220241059.txt
+198,ADMISION 2024-II,EXTRAORDINARIO,2024-II Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240427.txt
+199,ADMISION 2024-II,EXTRAORDINARIO,2024-II Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240432.txt
+200,ADMISION 2024-II,EXTRAORDINARIO,2024-II Santiago de Chuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240431.txt
+201,ADMISION 2024-II,EXTRAORDINARIO,2024-II Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240430.txt
+202,ADMISION 2024-II,EXTRAORDINARIO,2024-II Personas con Discapacidad,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240426.txt
+203,ADMISION 2024-II,EXTRAORDINARIO,2024-II Victimas de la Violencia,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240425.txt
+204,ADMISION 2024-II,EXTRAORDINARIO,2024-II Deportistas Calificados,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//105_DOC_CONVO_040320240424.txt
+205,ADMISION 2024-II,ORDINARIO,Áreas A y D: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240632.txt
+206,ADMISION 2024-II,ORDINARIO,Áreas B y C: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240845.txt
+207,ADMISION 2024-II,ORDINARIO,Áreas A y D: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240646.txt
+208,ADMISION 2024-II,ORDINARIO,Áreas B y C: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240847.txt
+209,ADMISION 2024-II,ORDINARIO,Áreas A y D: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240644.txt
+210,ADMISION 2024-II,ORDINARIO,Áreas B y C: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240846.txt
+211,ADMISION 2024-II,ORDINARIO,Áreas B y C: Santiago de Chuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/3//114_DOC_CONVO_170320240848.txt
+212,ADMISION 2025-I,CEPUNT,I Sumativo CEPUNT: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2024/5//152_DOC_CONVO_260520240946.txt
+213,ADMISION 2025-I,CEPUNT,I Sumativo CEPUNT: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2024/5//152_DOC_CONVO_260520240952.txt
+214,ADMISION 2025-I,CEPUNT,I Sumativo CEPUNT: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/5//152_DOC_CONVO_260520240956.txt
+215,ADMISION 2025-I,CEPUNT,II Sumativo CEPUNT: Trujillo,https://unitru.edu.pe/webfiles///Convocatoria/2024/7//152_DOC_CONVO_210720240711.txt
+216,ADMISION 2025-I,CEPUNT,II Sumativo CEPUNT: Valle Jequetepeque,https://unitru.edu.pe/webfiles///Convocatoria/2024/7//152_DOC_CONVO_210720240713.txt
+217,ADMISION 2025-I,CEPUNT,II Sumativo CEPUNT: Huamachuco,https://unitru.edu.pe/webfiles///Convocatoria/2024/7//152_DOC_CONVO_210720240715.txt
